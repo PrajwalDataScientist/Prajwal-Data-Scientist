@@ -16,7 +16,6 @@ Data analyst
 * 🤝  I'm open to collaborating on on intriguing Data Analyst initiatives.
 * ⚡  "Data analyst by day, secretly decoding data like a superhero by night – I spin insights, not webs."
 
-.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <b>My GitHub Stats</b>
 
