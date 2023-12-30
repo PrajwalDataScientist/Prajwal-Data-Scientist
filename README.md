@@ -15,30 +15,6 @@ Data analyst
 * 🤝  I'm open to collaborating on on intriguing Data Analyst initiatives.
 * ⚡  "Data analyst by day, secretly decoding data like a superhero by night – I spin insights, not webs."
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18365
-Fork on GitHub
-5457
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Prajwal B</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalb10&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalb10" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://prajwalda.000webhostapp.com/prajwal/](https://prajwalda.000webhostapp.com/prajwal/)
-
-- 📫 How to reach me **prajwalint1027@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
