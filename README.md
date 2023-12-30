@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 Hi 👋 My name is Prajwal
