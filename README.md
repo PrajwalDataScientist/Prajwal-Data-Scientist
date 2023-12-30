@@ -12,8 +12,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Prajwal_Data_Analyst&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Visit My portfolio](https://prajwalda.000webhostapp.com/prajwal/)] 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
