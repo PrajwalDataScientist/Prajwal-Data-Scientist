@@ -13,7 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=Prajwal_Data_Analyst&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://prajwalda.000webhostapp.com/prajwal/)](https://buymeacoffee.com/Buy Me A Coffee.......!) 
+  [![BuyMeACoffee](https://prajwalda.000webhostapp.com/prajwal/)] 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
