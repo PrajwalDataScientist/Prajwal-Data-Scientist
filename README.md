@@ -16,12 +16,6 @@ Data analyst
 * ⚡  "Data analyst by day, secretly decoding data like a superhero by night – I spin insights, not webs."
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalb10&show_icons=true&locale=en&layout=compact" alt="prajwalb10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwalb10&show_icons=true&locale=en" alt="prajwalb10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalb10&" alt="prajwalb10" /></p>
-
 
 <b>My GitHub Stats</b>
 
