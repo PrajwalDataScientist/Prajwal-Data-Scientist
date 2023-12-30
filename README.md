@@ -26,12 +26,12 @@ Data analyst
 <a href="https://twitter.com/Prajwal_DA" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Prajwal_DA" height="30" width="40" /></a><a href="https://linkedin.com/in/prajwal10da" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="prajwal10da" height="30" width="40" /></a></p>
 
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalDataAnalyst&layout=compact&theme=" alt=PrajwalDataAnalyst />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PrajwalDataAnalyst&show_icons=true&locale=en&theme=" alt="PrajwalDataAnalyst" /></p>
+<b>My GitHub Stats</b>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalDataAnalyst&theme=" alt="PrajwalDataAnalyst" /></p>
+<a href="http://www.github.com/PrajwalDataAnalyst"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalDataAnalyst&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -50,12 +50,6 @@ Data analyst
 
 
 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PrajwalDataAnalyst"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalDataAnalyst&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 
