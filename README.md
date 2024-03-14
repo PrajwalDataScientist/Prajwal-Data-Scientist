@@ -10,7 +10,7 @@ Data analyst
 "A meticulous Data Analyst with a passion for transforming raw data into actionable insights. Proficient in extracting meaningful patterns and trends, I leverage statistical methods and cutting-edge tools to drive informed decision-making. My keen eye for detail and analytical prowess fuels a commitment to optimizing processes and uncovering hidden opportunities within complex datasets."
 
 * 🌍  I'm based in INDIA
-* 🖥️  See my portfolio at [Prajwal_Data_Analyst](http://prajwalda.000webhostapp.com/prajwal/)
+* 🖥️  See my portfolio at [Prajwal_Data_Analyst](https://prajwaldataanalyst.netlify.app/)
 * ✉️  You can contact me at [prajwalint1027@gmail.com](mailto:prajwalint1027@gmail.com)
 * 🧠  I'm learning Data Analyst.
 * 🤝  I'm open to collaborating on on intriguing Data Analyst initiatives.
