@@ -12,9 +12,11 @@
 - 🌍 Based in **India**
 - 🎓 Exploring the world of **Data Science, Machine Learning, and AI**
 - 💡 Strong foundation in **data wrangling, visualization, statistics, and ML modeling**
+- 🤖 Building AI Chatbots and RAG Applications
 - 🚀 Working on **projects that convert data into business impact**
+- 🐳 DockerHub: [Prajwal1027](https://hub.docker.com/u/prajwal1027)
 - ✉️ Reach me at: [prajwalint1027@gmail.com](mailto:prajwalint1027@gmail.com)
-- 🌐 Portfolio: [PrajwalDataAnalyst.netlify.app](https://prajwaldataanalyst.netlify.app/)
+- 🌐 Portfolio: [prajwaldataanalyst.netlify.app](https://prajwaldataanalyst.netlify.app)
 
 ---
 
@@ -31,6 +33,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -39,26 +42,32 @@
 
 - 📊 Building end-to-end **data analytics dashboards**
 - 🤖 Learning advanced **machine learning techniques**
-- 📈 Improving storytelling through **interactive visualizations**
-- 📚 Studying **data ethics, feature engineering, and model interpretability**
+- 💬 Building **LLM-powered Chatbots** using LangChain, FastAPI, Streamlit  
+- 📚 Studying **data ethics**, **feature engineering**, and **model interpretability**
+- 🔎 Exploring **RAG (Retrieval-Augmented Generation)** with local + cloud LLMs
+- 🐳 Containerizing apps using **Docker**
 
 ---
 
 ### 🧠 Featured Projects
 
+Below are my 4 most recent repositories on GitHub:
+
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **E-commerce Customer Churn Prediction** | Predict customer attrition using machine learning models | Python, Sklearn, Streamlit |
-| **Sales Dashboard** | Interactive dashboard analyzing sales KPIs | Excel, Power BI |
-| **Fake Review Detection** | NLP project detecting fraudulent reviews on eCommerce | Python, NLTK, Logistic Regression |
-| **Loan Approval Predictor** | ML model to automate bank loan approval | Python, Pandas, Sklearn |
+| **[Project 1 Name](https://github.com/PrajwalDataAnalyst/PROJECT-1)** | Short description of your latest repo | Example: Python, Pandas, Streamlit |
+| **[Project 2 Name](https://github.com/PrajwalDataAnalyst/PROJECT-2)** | Short description of your second-latest repo | Example: SQL, Power BI |
+| **[Project 3 Name](https://github.com/PrajwalDataAnalyst/PROJECT-3)** | Another repo summary goes here | Excel, Visualization |
+| **[Project 4 Name](https://github.com/PrajwalDataAnalyst/PROJECT-4)** | Final repo from latest list | Python, Docker, NLP |
+
+> 🔗 [See all projects →](https://github.com/PrajwalDataAnalyst?tab=repositories)
 
 ---
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal10da)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalDataAnalyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal10da)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalDataAnalyst)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalint1027@gmail.com)
 
 ---
@@ -85,6 +94,7 @@
 ---
 
 ### ✍️ Dev Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
