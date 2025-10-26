@@ -1,9 +1,9 @@
-<img align="right" alt="Data Analysis and Data Scientist" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Data Scientist" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # Hi 👋 I'm Prajwal  
 ### Aspiring Data Scientist
 
-> **"Turning raw data into real-world solutions. Passionate about data storytelling, machine learning, and solving business problems through analytics."**
+> **"I’m a Data Scientist passionate about transforming raw data into actionable insights and real-world solutions. My work bridges the gap between data, technology, and business impact through intelligent systems and data storytelling."**
 
 ---
 
