@@ -1,7 +1,7 @@
 <img align="right" alt="Data Analysis and Data Scientist" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # Hi 👋 I'm Prajwal  
-### Aspiring Data Analyst &  Data Scientist
+### Aspiring Data Scientist
 
 > **"Turning raw data into real-world solutions. Passionate about data storytelling, machine learning, and solving business problems through analytics."**
 
@@ -15,7 +15,7 @@
 - 🧪 Skilled in **data wrangling, visualization, modeling, and automation**
 - 🐳 Publishing apps on **DockerHub** → [Prajwal1027](https://hub.docker.com/u/prajwal1027)
 - ✉️ Reach me at: [prajwalint1027@gmail.com](mailto:prajwalint1027@gmail.com)
-- 🌐 Portfolio: [prajwaldataanalyst.netlify.app](https://prajwaldataanalyst.netlify.app)
+- 🌐 Portfolio: [prajwaldatascientist.netlify.app](https://prajwaldatascientist.netlify.app)
 
 ---
 
@@ -28,17 +28,10 @@
 
 ---
 
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal10da)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalDataAnalyst)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalint1027@gmail.com)
-
----
 
 ### 📊 GitHub Stats
 
-<a href="http://www.github.com/PrajwalDataAnalyst">
+<a href="https://github.com/PrajwalDataScientist">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalDataAnalyst&theme=dark&hide_border=true"/>
 </a>
 
